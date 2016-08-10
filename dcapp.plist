@@ -1,0 +1,50 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://ktsaf001.oss-cn-shenzhen.aliyuncs.com/H5AA92AC7_0810140830.ipa?Expires=1470894611&OSSAccessKeyId=kXGyJDl1cRr4sKrb&Signature=d6O2E%2BZo2nsHdyCtM7NWdCGjAyo%3D</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://ktsaf001.oss-cn-shenzhen.aliyuncs.com/icon.png?Expires=1470894749&OSSAccessKeyId=kXGyJDl1cRr4sKrb&Signature=BqatoCCr4O9W6M9PDSv%2BaV8vCI4%3D</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://ktsaf001.oss-cn-shenzhen.aliyuncs.com/icon.png?Expires=1470895757&OSSAccessKeyId=kXGyJDl1cRr4sKrb&Signature=pR4H2eUV1gnSvCUqm%2Bh7vMkWyik%3D</string>
+               </dict>
+           </array>
+		   
+		   <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>cn.com.ut.fdtab1a.mapp</string>
+               <key>bundle-version</key>
+               <string>2.0.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>安全管理</string>
+               <key>title</key>
+               <string>安全管控</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
