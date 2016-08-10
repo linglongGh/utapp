@@ -36,13 +36,13 @@
                <key>bundle-identifier</key>
                <string>cn.com.ut.fdtab1a.mapp</string>
                <key>bundle-version</key>
-               <string>2.0.0</string>
+               <string>1.00.00.00</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>安全管理</string>
+               <string>App Subtitle</string>
                <key>title</key>
-               <string>安全管控</string>
+               <string>App Title</string>
            </dict>
        </dict>
    </array>
